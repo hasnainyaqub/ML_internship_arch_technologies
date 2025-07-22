@@ -29,4 +29,4 @@ These projects were part of my practical learning and professional experience du
 
 ## Note
 
-This repository reflects my work and learning during the internship and will serve as a reference for my future machine learning projects.
+This repository reflects my work and learning during the internship and will serve as a reference for my future Machine Learning Projects.
